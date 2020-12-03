@@ -38,7 +38,7 @@ represented by an integer and it is followed by a single space. After, all the i
 "#SUP:" appears, which is followed by an integer indicating the support of the itemset, expressed 
 as a number of transactions
 
-[More details:](https://www.philippe-fournier-viger.com/spmf/Charm_dCharm.php#:~:text=The%20Charm%20algorithm%20is%20an,for%20frequent%20closed%20itemset%20mining.)
+[More details in SPMF documentation](https://www.philippe-fournier-viger.com/spmf/Charm_dCharm.php#:~:text=The%20Charm%20algorithm%20is%20an,for%20frequent%20closed%20itemset%20mining.)
 
 # Run
 
